@@ -30,8 +30,6 @@ public class NespressoApp {
         Cafetera cafetera1 = serv.crearCafetera();
         System.out.println(cafetera1);
 
-        
-
         // Lleno cafetera
         serv.llenarCafetera(cafetera1);
         System.out.println(cafetera1);
