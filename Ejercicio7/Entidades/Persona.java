@@ -83,7 +83,7 @@ public class Persona {
     //método toString()
     @Override
     public String toString() {
-        return "Persona [ Nombre="+ nombre + ", Edad=" + edad + ", Sexo=" + sexo + ", Altura=" + altura + ", Peso=" + peso + ", IMC=" + IMC + ",esMayorDeEdad=" + mayorDeEdad +"]";
+        return "Persona [ Nombre="+ nombre + ", Edad=" + edad + ", Sexo=" + sexo + ", Altura=" + altura + ", Peso=" + peso + ", IMC=" + IMC + ", esMayorDeEdad=" + mayorDeEdad +"]";
     }
 
 }
